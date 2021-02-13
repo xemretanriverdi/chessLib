@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1612916190 source:/home/mevlutt/c-calisma/chessLib/chessLib.cpp
+	<iostream>
+	"chessLib.h"
+
+1612915873 /home/mevlutt/c-calisma/chessLib/chessLib.h
+
+1612916872 source:/home/mevlutt/c-calisma/chessLib/main.cpp
+	<iostream>
+	"chessLib.h"
+
